@@ -23,6 +23,5 @@ zeep==4.2.1
 certifi==2024.7.4
 python-certifi-win32==1.6.1
 opensearch-py==2.6.0
-pandas==2.1.4
+pandas==2.0.0 
 loguru
-pyarrow==15.0.2
