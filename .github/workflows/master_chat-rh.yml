@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.11'
 
       - name: Install system dependencies for build
         run: |
@@ -30,13 +30,10 @@ jobs:
           python -m venv venv
           source venv/bin/activate
 
-      - name: Upgrade pip and build tools
+      - name: Install Python dependencies (only binary)
         run: |
           pip install --upgrade pip setuptools wheel
-
-      - name: Install Python dependencies (prefer binary)
-        run: |
-          pip install --prefer-binary -r requirements.txt
+          pip install --only-binary=:all: -r requirements.txt
 
       # Optional: Add step to run tests here (PyTest, etc.)
 
