@@ -1,0 +1,61 @@
+Férias
+
+02. Sumário 
+
+Conforme legislação vigente, o profissional adquire o direito a férias de 30 (trinta) dias corridos, após 12 (doze) meses de serviço, sendo vedada a sua antecipação.
+
+As férias poderão ser usufruídas em até 3 (três) períodos, sendo que um deles não poderá ser inferior a 14 (quatorze) dias corridos e os demais não poderão ser inferiores a 5 (cinco) dias corridos, cada um.
+
+Além disso, é vedado o início das férias às quintas-feiras e sextas-feiras ou no período de 2 (dois) dias que antecede feriado.
+
+As férias devem ser solicitadas com, no mínimo, 40 (quarenta) dias de antecedência da data de seu início por meio do sistema ADP. Mesmo prazo é aplicável para alterações e/ou cancelamentos.
+
+ O disposto acima não é aplicável em caso de ausência de programação em até 90 (noventa) dias antes do vencimento do segundo período aquisitivo, pois serão agendadas férias de 30 (trinta) dias, ou do saldo de dias não usufruídos, antes do término deste período, de forma automática pelo sistema. Não há possibilidade de alteração e/ou cancelamento da data.
+
+A presente política também não será aplicada aos empregados que não possuem o total de dias necessários para a conclusão do primeiro período aquisitivo, ou seja, doze meses de vínculo empregatício.
+
+ 
+
+Férias de 20 (vinte) dias
+
+O profissional pode converter 1/3 do período de suas férias em abono pecuniário, fazendo jus, portanto, ao descanso de 20 (vinte) dias corridos ou conforme os períodos estabelecidos acima, quais sejam: um período não poderá ser inferior a 14 (quatorze) dias corridos e outro período não poderá ser inferior a 5 (cinco) dias corridos.
+
+ 
+
+Férias de 30 (trinta) dias
+
+Se o profissional não optar pela conversão de 10 (dez) dias de suas férias em abono pecuniário, o período de descanso será de 30 (trinta) dias corridos ou conforme os períodos acima relacionados, quais sejam: um período não poderá ser inferior a 14 (quatorze) dias corridos e os demais não poderão ser inferiores a 5 (cinco) dias corridos, cada um.
+
+Além disso, o profissional poderá requerer, quando as férias forem usufruídas entre os meses de janeiro e outubro, que o pagamento da primeira parcela do 13º salário ocorra na época da concessão de suas férias, em valor correspondente a 50% do salário do mês anterior. 
+
+O pagamento das férias e da primeira parcela do 13º salário, caso seja solicitado, ocorre até dois dias antes do início das férias.
+
+É sempre muito importante que os períodos de férias sejam alinhados previamente com a liderança. Porém, é necessário ressaltar que é prerrogativa legal da EY fixar os períodos de férias quando entender necessário.
+
+Não terá direito a férias o empregado que, no curso do período aquisitivo, entre outras previsões estabelecidas pela legislação: permanecer por mais de seis meses afastado mediante recebimento de benefício previdenciário em decorrência de acidente de trabalho ou auxílio-doença comum, mesmo que de forma descontinuada.
+
+Para saber se a Convenção Coletiva de Trabalho (CCT) de sua localidade prevê algo especial sobre as férias, o empregado pode consultar as suas disposições no Sharepoint de Compliance.
+
+
+
+Workflow para aprovação da programação de férias
+
+Empregados de CBS
+
+a) Empregado solicita férias por meio do sistema ADP; e
+
+b) Gestor aprovador (gerente e/ou diretor de CBS) analisa o pedido, podendo aprová-lo ou rejeitá-lo em até 5 (cinco) dias corridos.
+
+Empregados de Client Serving (Assurance, Consulting, FSO, SAT e TAX)
+
+a) Emrpegado solicita férias por meio do sistema ADP;
+
+b) Área da programação analisa o pedido, podendo aprová-lo ou rejeitá-lo em até 5 (cinco) dias corridos; e
+
+c) Gestor aprovador (gerente/sócio líder da linha de serviço) analisa o pedido, podendo aprová-lo ou rejeitá-lo em até 5 (cinco) dias corridos.
+
+Os manuais de solicitação e aprovação de férias estão disponíveis no Sharepoint EY Brasil Compliance.
+
+
+
+ IMPORTANTE: A programação de férias deve ser incluída no sistema ADP conforme o período de descanso. Caso o empregado opte pela fruição das férias em 2 (dois) ou 3 (três) períodos e inserir todos os períodos no sistema de uma só vez, o status ficará como "período de férias solicitado" até que o primeiro período seja efetivamente calculado e pago. É necessário salientar, ainda, que qualquer exclusão e/ou alteração no primeiro período cancela os próximos períodos pré-agendados automaticamente.

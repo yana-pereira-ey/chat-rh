@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chats</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="/static/img/EY_PB_ICO.ico" />
+</head>
+<body>
+    <div class="container-login">
+        <div class="row justify-content-center">
+            <div class="card-login o-hidden border-0 shadow-lg my-5">
+                <div class="row">
+                    <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <div class="text-center">
+                                <!-- Logo EY -->
+                                <img class="img-fluid mt-1" src="/static/img/ey_eletro.png" alt="Logo EY"  style="width: 150px; height: auto;">
+                                <h1 class="h4 text-gray-900 mb-4">Com quem você gostaria de conversar?</h1>
+                            </div>
+                            <div class="button-container text-center">
+                                <!-- <a href="{{ url_for('datalia_agent.datalia') }}" class="btn-chat">Agente 2</a> -->
+                                <a href="{{ url_for('vitoria_agent.show_chat_vitoria') }}" class="btn-chat">Judite</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
