@@ -18,7 +18,6 @@ Werkzeug==2.3.7
 requests==2.32.3
 identity==0.5.2
 gunicorn
-databricks-sql-connector==3.1.2
 zeep==4.2.1
 certifi==2024.7.4
 python-certifi-win32==1.6.1
