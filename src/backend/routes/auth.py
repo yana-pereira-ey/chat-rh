@@ -16,6 +16,15 @@ AUTHORITY = os.getenv("AUTHORITY")
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 
+print("CLIENT_ID:", CLIENT_ID)
+print("CLIENT_SECRET:", CLIENT_SECRET)
+print("AUTHORITY:", AUTHORITY)
+
+assert CLIENT_ID is not None, "❌ CLIENT_ID não está definido!"
+assert CLIENT_SECRET is not None, "❌ CLIENT_SECRET não está definido!"
+assert AUTHORITY is not None, "❌ AUTHORITY não está definido!"
+
+
 auth = identity.web.Auth(
     session=session,
     authority=AUTHORITY,
